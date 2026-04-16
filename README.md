@@ -3,9 +3,11 @@
   <img src="asdf.jpg">
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
-# some information 
+# some information
 
-![hi](heart.gif)
+<p align="center">
+  <img src="heart.gif">
+</p>
 
 — ᴄ+ʜ ɪғ ʏᴏᴜ ᴡᴀɴᴛ, ɪ ᴅᴏɴ'ᴛ ᴍɪɴᴅ 
 
