@@ -1,5 +1,10 @@
 •───────────────────────────────────────────────────────────────────────────────•
-                                          ![hi](asdf.jpg)
+<p align="center">
+  <img src="asdf.jpg">
+</p>
+
+![hi](asdf.jpg)
+                                          
 
 
 # some information 
