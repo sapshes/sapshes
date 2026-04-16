@@ -1,6 +1,8 @@
 # наша история как пятый элемент   
-![бем бем бем бем]
-
+![бем бем бем бем](man.jpg)
+some information:
+- if you want to make friends — write me
+- you can c+h
 ![hi](eyes.jpg)
 
 <!--
