@@ -3,7 +3,6 @@
   <img src="asdf.jpg">
 </p>
 
-![hi](asdf.jpg)
                                           
 
 
