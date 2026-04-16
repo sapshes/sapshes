@@ -1,4 +1,4 @@
-![hai everyone](5a53bcc1b4379812895a17f2ff900a6d.png)
+hai everyone
 
 <!--
 **sapshes/sapshes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
