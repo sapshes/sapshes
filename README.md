@@ -53,7 +53,7 @@
 
 <img align="left" src="mech.gif" width="120">
 <p align="center">i love strawberry lol</p>
-<img align="right" src="vampire.gif" width="120">
+<img align="right" src="vampire.gif" width="200">
 <br clear="both">
 
 
