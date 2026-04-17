@@ -46,8 +46,8 @@
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
 
-<img align="left" src="knight.gif" width="400">
-<p align="center">чᴛᴏ жᴇ ᴦᴏниᴛ ᴛᴇбя ᴋ ϶ᴛᴏʍу ᴏчᴀᴦу, ᴨуᴛниᴋ? чᴛᴏ жᴀждᴀᴇɯь ᴛы уɜнᴀᴛь ᴏ ʍᴏᴇй ᴄудьбᴇ? Иᴧи ᴧиɯь ᴄᴋуᴋᴀ, ᴛᴇᴩɜᴀᴇᴛ ᴛʙᴏю дуɯу?</p>
+<img align="left" src=".gif" width="400">
+<p align="center"></p>
 <img align="right" src=".gif" width="300">
 <br clear="both">
 
