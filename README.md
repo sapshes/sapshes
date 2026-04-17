@@ -15,6 +15,13 @@
   <img src="heart.gif">
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
- <p align="center">
-  <img src="222.jpg">
-</p>
+<table>
+  <tr>
+    <td width="30%">
+      <img src="222.jpg" width="100%">
+    </td>
+    <td width="70%">
+      c+h if you want, if you want chiil sit next to me, cygcghtjvthjcthctchgchjvhgjvghgvhjcghjtchjchgghcjccghjcghjchjchcthjccghjghcjcghchtjcthtchtjcthcctcthjthj
+    </td>
+  </tr>
+</table>
