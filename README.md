@@ -7,27 +7,21 @@
   <img src="bunny.gif">
 </p>
 
-
-
-
+<p align="center">
+  <img src="cat.gif">
+</p>
 
 <p align="center">
-  <img src="heart.gif">
+  <img src="boy.gif">
 </p>
-<table>
-  <tr>
-    <td><img src="fire.gif" width="150"></td>
-    <td style="text-align: center;">ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ</td>
-    <td><img src="fire.gif" width="150"></td>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="castle.gif">
+</p>
 
 ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ 
 
 — ᴄ+ʜ ɪғ ʏᴏᴜ ᴡᴀɴᴛ, ɪ ᴅᴏɴ'ᴛ ᴍɪɴᴅ 
 
 — ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sɪᴛ ᴀɴᴅ ᴄʜɪʟʟ, ᴄᴏᴍᴇ sɪᴛ ɴᴇxᴛ ᴛᴏ ᴍᴇ   
-<p align="center">
-  <img src="heart.gif">
-</p>
+
