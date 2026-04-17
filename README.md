@@ -6,6 +6,15 @@
 <p align="center">
   <img src="heart.gif">
 </p>
+<table>
+  <tr>
+    <td><img src="fire.gif" width="150"></td>
+    <td style="text-align: center;">ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ</td>
+    <td><img src="fire.gif" width="150"></td>
+  </tr>
+</table>
+
+
 ![gg](fire.gif) ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ ![gg](fire.gif)
 
 — ᴄ+ʜ ɪғ ʏᴏᴜ ᴡᴀɴᴛ, ɪ ᴅᴏɴ'ᴛ ᴍɪɴᴅ 
