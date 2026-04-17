@@ -4,6 +4,14 @@
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
 <p align="center">
+  <img src="bunny.gif">
+</p>
+
+
+
+
+
+<p align="center">
   <img src="heart.gif">
 </p>
 <table>
