@@ -54,32 +54,9 @@
 
 <img align="left" src="kriper.gif" width="150">
 
-егвревлвенлвпсрпсрлспрлсесерсерсерсероспропссерсспс
-глриромлрмрмглпм
+Bye
 <br clear="both">
 
-
-
-<p align="center">
-  <img src="vampire.gif">
-</p>
-<p align="center">
-  <img src="min.gif">
-</p>
-
-<p align="center">
-  <img src="kriper.gif">
-</p>
-<p align="center">
-  <img src="gumball.gif">
-</p>
-<p align="center">
-  <img src="fotto.gif">
-</p>
-<p align="center">
-  <img src="dragon.gif">
-</p>
-<p align="center">
   <img src="cat.gif">
 </p>
 <p align="center">
