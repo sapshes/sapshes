@@ -52,10 +52,8 @@
 
 
 <img align="left" src="mech.gif" width="120">
-<p align="center">im love strawberry lol
-hdh dhdj jdnd. dnndn ndnd
-hdjdhe djdj jdnd ndnnd lol</p>
-<img align="right" src="mech.gif" width="140">
+<p align="center">i love strawberry lol</p>
+<img align="right" src="vampire.gif" width="120">
 <br clear="both">
 
 
