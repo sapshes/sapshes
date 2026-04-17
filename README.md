@@ -46,7 +46,7 @@
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
 
-<img align="left" src="mech.gif" width="120">
+<img align="left" src="knight.gif" width="400">
 <p align="center">чᴛᴏ жᴇ ᴦᴏниᴛ ᴛᴇбя ᴋ ϶ᴛᴏʍу ᴏчᴀᴦу, ᴨуᴛниᴋ? чᴛᴏ жᴀждᴀᴇɯь ᴛы уɜнᴀᴛь ᴏ ʍᴏᴇй ᴄудьбᴇ? Иᴧи ᴧиɯь ᴄᴋуᴋᴀ, ᴛᴇᴩɜᴀᴇᴛ ᴛʙᴏю дуɯу?</p>
 <img align="right" src="vampire.gif" width="300">
 <br clear="both">
