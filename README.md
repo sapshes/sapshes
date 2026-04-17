@@ -42,11 +42,11 @@
 "𝑆𝑡𝑜𝑝 𝑡𝑎𝑘𝑖𝑛𝑔 𝑠𝑡𝑒𝑝𝑠 𝑖𝑛 𝑎 𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛 𝑤ℎ𝑒𝑟𝑒 𝑡ℎ𝑒𝑟𝑒 𝑖𝑠 𝑛𝑜 𝑟𝑒𝑐𝑖𝑝𝑟𝑜𝑐𝑖𝑡𝑦."
 
 <p align="center">
-  <img src="qw.gif">
+  <img src="dragonnnn.gif">
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
 
-<img align="left" src="poiu.gif" width="400">
+<img align="left" src="mech.gif" width="400">
 <p align="center">чᴛᴏ жᴇ ᴦᴏниᴛ ᴛᴇбя ᴋ ϶ᴛᴏʍу ᴏчᴀᴦу, ᴨуᴛниᴋ? чᴛᴏ жᴀждᴀᴇɯь ᴛы уɜнᴀᴛь ᴏ ʍᴏᴇй ᴄудьбᴇ? Иᴧи ᴧиɯь ᴄᴋуᴋᴀ, ᴛᴇᴩɜᴀᴇᴛ ᴛʙᴏю дуɯу?</p>
 <img align="right" src="vampire.gif" width="300">
 <br clear="both">
