@@ -6,7 +6,7 @@
 <p align="center">
   <img src="heart.gif">
 </p>
-ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ
+![gg](fire.gif) ＳＯＭＥ ＩＮＦＯＲＭＡＴＩＯＮ ![gg](fire.gif)
 
 — ᴄ+ʜ ɪғ ʏᴏᴜ ᴡᴀɴᴛ, ɪ ᴅᴏɴ'ᴛ ᴍɪɴᴅ 
 
