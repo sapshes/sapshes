@@ -57,8 +57,3 @@
 Bye
 <br clear="both">
 
-  <img src="cat.gif">
-</p>
-<p align="center">
-  <img src="carrr.gif">
-</p>
