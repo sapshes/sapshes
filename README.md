@@ -46,14 +46,13 @@
 </p>
 •───────────────────────────────────────────────────────────────────────────────•
 
-<img align="left" src="poiu.gif" width="400">
+<img align="left" src="knight.gif" width="400">
 <p align="center">чᴛᴏ жᴇ ᴦᴏниᴛ ᴛᴇбя ᴋ ϶ᴛᴏʍу ᴏчᴀᴦу, ᴨуᴛниᴋ? чᴛᴏ жᴀждᴀᴇɯь ᴛы уɜнᴀᴛь ᴏ ʍᴏᴇй ᴄудьбᴇ? Иᴧи ᴧиɯь ᴄᴋуᴋᴀ, ᴛᴇᴩɜᴀᴇᴛ ᴛʙᴏю дуɯу?</p>
-<img align="right" src="knight.gif" width="300">
+<img align="right" src=".gif" width="300">
 <br clear="both">
 
 
-<img align="left" src="kriper.gif" width="150">
-
-Bye
-<br clear="both">
-
+<p align="center">
+  <img src="min.gif">
+</p>
+•───────────────────────────────────────────────────────────────────────────────•
