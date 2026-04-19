@@ -48,3 +48,7 @@
 
 
 <br clear="both">
+<img align="left" src="3.gif" width="200">
+
+
+<br clear="both">
