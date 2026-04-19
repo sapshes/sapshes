@@ -44,19 +44,3 @@
 
 "𝑆𝑡𝑜𝑝 𝑡𝑎𝑘𝑖𝑛𝑔 𝑠𝑡𝑒𝑝𝑠 𝑖𝑛 𝑎 𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛 𝑤ℎ𝑒𝑟𝑒 𝑡ℎ𝑒𝑟𝑒 𝑖𝑠 𝑛𝑜 𝑟𝑒𝑐𝑖𝑝𝑟𝑜𝑐𝑖𝑡𝑦."
 •──────────────────────────────────────────────────────────────────────────────•
-<img align="right" src="7.jpg" width="400">
-
-
-<br clear="both">
-<img align="left" src="3.gif" width="150">
-
-
-<br clear="both">
-<img align="right" src="4.gif" width="150">
-
-
-<br clear="both">
-<img align="center" src="5.gif" width="150">
-
-
-<br clear="both">
