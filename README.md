@@ -45,12 +45,3 @@
 "𝑆𝑡𝑜𝑝 𝑡𝑎𝑘𝑖𝑛𝑔 𝑠𝑡𝑒𝑝𝑠 𝑖𝑛 𝑎 𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛 𝑤ℎ𝑒𝑟𝑒 𝑡ℎ𝑒𝑟𝑒 𝑖𝑠 𝑛𝑜 𝑟𝑒𝑐𝑖𝑝𝑟𝑜𝑐𝑖𝑡𝑦."
 •──────────────────────────────────────────────────────────────────────────────•
 
-Игры - half life, garry's mod, Quarantine Zone: The Last Check, minecraft, roblox, cry of fear, HELLMART, afraid of monsters, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf it Alone, homishiper, i'm on Observation Duty 8, creepy shift, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal
-
-Аниме: berserk, дорога юности, эта фарфоровая кукла влюбилась, волчица и чёрный принц, ангел кровопролития
-
-фильмы/сериалы: мост в терабитию, вышка, слендермен, царство небесное, хулиганы зелёной улицы, аватар,нам покер, черная весна, fear 1998, American psycho
-
-Мульты: Scooby-Doo, The Amazing World of Gumball
-
-Новеллы: Tinny Bunny,
