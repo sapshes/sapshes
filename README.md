@@ -1,3 +1,4 @@
+<img src="https://komarev.com/ghpvc/?username=sapshes&color=424242f&style=plastic&label=+++++++++KILL+COUNT+++++++++" alt="view count" title="KILL COUNT">
 
 <div align="center">
   
