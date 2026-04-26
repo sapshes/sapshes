@@ -45,3 +45,6 @@
 "𝑆𝑡𝑜𝑝 𝑡𝑎𝑘𝑖𝑛𝑔 𝑠𝑡𝑒𝑝𝑠 𝑖𝑛 𝑎 𝑑𝑖𝑟𝑒𝑐𝑡𝑖𝑜𝑛 𝑤ℎ𝑒𝑟𝑒 𝑡ℎ𝑒𝑟𝑒 𝑖𝑠 𝑛𝑜 𝑟𝑒𝑐𝑖𝑝𝑟𝑜𝑐𝑖𝑡𝑦."
 •────────────────────────────────────────────────────────────────────────────────────•
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sapshes&style=for-the-badge&color=424242" alt="Profile Views"/>
+</p>
