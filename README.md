@@ -88,7 +88,7 @@
  *•────────────────────────────────────────────────────────────────────────────•*
 <img align="left" src="https://github.com/sapshes/sapshes/blob/61145a098075aac8110cc18f08c5c47059c0ead9/8669371d015fe46747fb1f91730414f1.gif" width="60">
 
-Игры - Garry's mod, Quarantine Zone: The Last Check, minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, creepy shift, roblox, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac.
+Игры - Garry's mod, Quarantine Zone: The Last Check, minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, creepy shift, roblox, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac, skullgirls.
 
 <br clear="both">
 
