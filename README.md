@@ -120,7 +120,19 @@
  <summary>movie</summary>
 
 <div algn="center">
-    <p>фильмы/сериалы: мост в терабитию, вышка, слендермен, царство небесное, хулиганы зелёной улицы, аватар,нам покер, черная весна, fear 1998, American psycho.</p>
+    <p>мост в терабитию, вышка, слендермен, царство небесное, хулиганы зелёной улицы, аватар,нам покер, черная весна, fear 1998, American psycho, Scooby-Doo, The Amazing World of Gumball.</p>
+    </div>
+</details>
+
+<br>
+<br>
+</p>
+ <div align="center">
+  <details>
+ <summary>аним</summary>
+
+<div algn="center">
+    <p>berserk, дорога юности, эта фарфоровая кукла влюбилась, волчица и чёрный принц, ангел кровопролития.</p>
     </div>
 </details>
 
