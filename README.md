@@ -132,8 +132,7 @@
  <summary>аним</summary>
 
 <div algn="center">
-    <p>berserk, road of youth, This porcelain doll fell in love, the wolf girl and black prince, angel of bloodshed.</p>
-    <p>берсерк, дорога юности, эта фарфоровая кукла влюбилась, волчица и черный принц, ангел кровопролития.</p>
+    <p>berserk(берсерк), road of youth(дорога юности), This porcelain doll fell in love(эта фарфоровая кукла влюбилась), the wolf girl and black prince(волчица и черный принц), angel of bloodshed(ангел кровопролития).</p>
     </div>
   
 </details>
