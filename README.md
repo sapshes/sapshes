@@ -103,7 +103,7 @@
 </p>
  <div align="center">
   <details>
- <summary>𝘈 𝘭𝘪𝘵𝘵𝘭𝘦 𝘣𝘪𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦.</summary>
+ <summary>𝘈 𝘭𝘪𝘵𝘵𝘭𝘦 𝘣𝘪𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦</summary>
     
   <p align="left" dir="auto" >  
  <img align="left" width="100" src="https://github.com/sapshes/sapshes/blob/ad1dd4baf760812a1b3d69d5f9e19affa174d026/IMG_20260427_192329_353.jpg">
@@ -139,7 +139,7 @@
  <summary>𝘔𝘰𝘷𝘪𝘦</summary>
 
 <div algn="center">
-    <p>Мост в Терабитию(Bridge to Terabithia, Человек-Паук(Spider-Man), хулиганы зелёной улицы(green street hooligans), вышка(tower), царство небесное (kingdom of heaven), аватар(avatar).</p>
+    <p>Мост в Терабитию(Bridge to Terabithia, Человек-Паук(Spider-Man), хулиганы зелёной улицы(green street hooligans), вышка(tower), царство небесное (kingdom of heaven), аватар(avatar)(это не все).</p>
     </div>
 </details>
 
