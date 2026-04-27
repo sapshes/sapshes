@@ -93,11 +93,6 @@
   <img src="https://komarev.com/ghpvc/?username=sapshes&style=for-the-badge&color=424242" alt="Profile Views"/>
 </p>
 
-<div align="center">
-  
- *omg what is this*
-
-<br>
 
 <br>
 </p>
