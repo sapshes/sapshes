@@ -97,6 +97,16 @@
   
  *omg what is this*
 
+<br>
+
 </div> 
 
- 
+ <details>
+  <summary><ins>games</ins></summary>
+
+  <div align="center">
+    <p>Garry's mod, Quarantine Zone: The Last Check, minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, creepy shift, roblox, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac, skullgirls.</p>
+  </div>
+</details>
+
+<br>
