@@ -106,7 +106,7 @@
  <summary>𝘈 𝘭𝘪𝘵𝘵𝘭𝘦 𝘣𝘪𝘵 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦</summary>
     
   <p align="left" dir="auto" >  
- <img align="left" width="100" src="https://github.com/sapshes/sapshes/blob/ad1dd4baf760812a1b3d69d5f9e19affa174d026/IMG_20260427_192329_353.jpg">
+ <img align="left" width="210" src="https://github.com/sapshes/sapshes/blob/ad1dd4baf760812a1b3d69d5f9e19affa174d026/IMG_20260427_192329_353.jpg">
 </p>   
 
  <div align="center">
@@ -115,6 +115,12 @@
 <p>брр</p>
     </div>
 </details>
+
+<div align="center">
+  
+ *•──────────────────────────────────────────────────────────────────────────────•*
+
+</div>
 
 
 <br>
