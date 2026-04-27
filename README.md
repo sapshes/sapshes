@@ -133,7 +133,9 @@
 
 <div algn="center">
     <p>berserk, road of youth, This porcelain doll fell in love, the wolf girl and black prince, angel of bloodshed.</p>
+    <p>берсерк, дорога юности, эта фарфоровая кукла влюбилась, волчица и черный принц, ангел кровопролития.</p>
     </div>
+  
 </details>
 
 <br>
