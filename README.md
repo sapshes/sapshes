@@ -120,7 +120,7 @@
  <summary>movie</summary>
 
 <div algn="center">
-    <p>мост в терабитию, вышка, слендермен, царство небесное, хулиганы зелёной улицы, аватар,нам покер, черная весна, fear 1998, American psycho, Scooby-Doo, The Amazing World of Gumball.</p>
+    <p>длмс.</p>
     </div>
 </details>
 
