@@ -111,12 +111,16 @@
 
 <br>
 
-<details>
-  <summary><ins>dggd</ins></summary>
-
-  <div align="center">
-    <p>gsgsg.</p>
-    </div>
-</details>
-
 <br>
+</p>
+ <div align="center">
+  <details>
+ <summary>games !</summary>
+
+<p align="left" dir="auto" >  
+ <gif align="left" width="205" src="https://github.com/sapshes/sapshes/blob/e8dc76cdf213612739272b4fc1efd02930722a89/8669371d015fe46747fb1f91730414f1.gif">
+</p> 
+
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+ <p align="left" dir="auto">ㅤㅤhgvcc
+ <p align="left"> hhhhhhĥ
