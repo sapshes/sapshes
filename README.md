@@ -106,7 +106,7 @@
  <summary>.</summary>
     
   <p align="left" dir="auto" >  
- <img align="left" width="205" src="https://github.com/sapshes/sapshes/blob/9076780b8037cf2d0b0365661a66cb7d2a4f90ab/fotto.jpg">
+ <img align="left" width="170" src="https://github.com/sapshes/sapshes/blob/ad1dd4baf760812a1b3d69d5f9e19affa174d026/IMG_20260427_192329_353.jpg">
 </p>   
 
  <div align="center">
