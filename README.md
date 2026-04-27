@@ -120,7 +120,7 @@
  <summary>𝘔𝘰𝘷𝘪𝘦</summary>
 
 <div algn="center">
-    <p>.</p>
+    <p>Мост в Терабитию(Bridge to Terabithia, Человек-Паук(Spider-Man), хулиганы зелёной улицы(green street hooligans), вышка(tower), царство небесное (kingdom of heaven), аватар(avatar).</p>
     </div>
 </details>
 
