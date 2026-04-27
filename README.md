@@ -98,3 +98,20 @@
  *omg what is this*
 
 </div> 
+
+ <gif align="left" width="205" src="https://github.com/sapshes/sapshes/blob/26bf0112113addbd84faa670570cb97091a53ffd/8669371d015fe46747fb1f91730414f1.gif">
+</p> 
+
+<a target="_blank" href="https://file.garden/ad5gQNfoF0kAW8gS/ewnomm">
+ <gif align="left" width="200" src="https://github.com/sapshes/sapshes/blob/26bf0112113addbd84faa670570cb97091a53ffd/8669371d015fe46747fb1f91730414f1.gif"> 
+</a>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+ <p align="left" dir="auto">ㅤㅤddfvb
+ <p align="left"> hshdhhsh
+ ㅤㅤ <p align="left"> ㅤㅤㅤalt ; <a href="https://github.com/theothebaldbird">theothebaldbird
+ 
+ </p>
+</p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+</details>
