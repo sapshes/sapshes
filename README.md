@@ -104,7 +104,7 @@
 </p>
  <div align="center">
   <details>
- <summary>games</summary>
+ <summary>𝘎𝘢𝘮𝘦𝘴</summary>
 
 <div align="center">
     <p>Garry's mod, Quarantine Zone: The Last Check, minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, creepy shift, roblox, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac, skullgirls.</p>
@@ -117,10 +117,10 @@
 </p>
  <div align="center">
   <details>
- <summary>movie</summary>
+ <summary>𝘔𝘰𝘷𝘪𝘦</summary>
 
 <div algn="center">
-    <p>длмс.</p>
+    <p>.</p>
     </div>
 </details>
 
@@ -129,7 +129,7 @@
 </p>
  <div align="center">
   <details>
- <summary>аним</summary>
+ <summary>𝘈𝘯𝘪𝘮𝘦</summary>
 
 <div algn="center">
     <p>berserk(берсерк), road of youth(дорога юности), This porcelain doll fell in love(эта фарфоровая кукла влюбилась), the wolf girl and black prince(волчица и черный принц), angel of bloodshed(ангел кровопролития).</p>
