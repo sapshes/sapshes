@@ -104,6 +104,11 @@
  <div align="center">
   <details>
  <summary>.</summary>
+    
+  <p align="left" dir="auto" >  
+ <img align="left" width="205" src="https://github.com/sapshes/sapshes/blob/9076780b8037cf2d0b0365661a66cb7d2a4f90ab/fotto.jpg">
+</p>   
+
  <div align="center">
     <p>.</p>
     </div>
