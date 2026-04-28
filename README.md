@@ -105,7 +105,7 @@
 </p>   
 
  <div align="center">
-<strong>Name:</strong> ... <img src="https://github.com/sapshes/sapshes/blob/8dd71b52b9d6852ae499a2ee7767d67929c1f4b7/e97082553918298a25af33ba66e70f12.gif" height="30">
+<strong>Name:</strong> ... <img src="https://github.com/sapshes/sapshes/blob/8dd71b52b9d6852ae499a2ee7767d67929c1f4b7/e97082553918298a25af33ba66e70f12.gif" height="30" style="vertical-align: middle;">
 <strong>Age:</strong> ... <img src="https://github.com/sapshes/sapshes/blob/8dd71b52b9d6852ae499a2ee7767d67929c1f4b7/e97082553918298a25af33ba66e70f12.gif" height="30">
 <strong>Nickname:</strong> I don't really know myself
     
