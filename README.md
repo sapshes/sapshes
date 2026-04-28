@@ -108,6 +108,8 @@
 <p>я не особо разговорчивый человек</p>
 <p>поэтому не всегда могу найти темы для разговора, но я стараюсь</p>
 <p>брр</p>
+<p></p>
+<p></p>
     </div>
 </details>
 
@@ -126,18 +128,6 @@
 
 <br>
 
-<br>
-</p>
- <div align="center">
-  <details>
- <summary>𝘔𝘰𝘷𝘪𝘦</summary>
-
-<div algn="center">
-    <p>-</p>
-    </div>
-</details>
-
-<br>
 <br>
 </p>
  <div align="center">
