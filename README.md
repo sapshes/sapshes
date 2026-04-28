@@ -108,6 +108,11 @@
 <strong>Name:</strong> ... <img src="https://github.com/sapshes/sapshes/blob/3f7fd3dd57b78f2b4639e5770c576555e26c3cbf/41ae0f1c86f642160ba5e16b5655e28b.gif" height="30" style="vertical-align: middle;">
 <strong>Age:</strong> ... <img src="https://github.com/sapshes/sapshes/blob/3f7fd3dd57b78f2b4639e5770c576555e26c3cbf/41ae0f1c86f642160ba5e16b5655e28b.gif" height="30">
 <strong>Nickname:</strong> I don't really know myself
+<p>haha</p>
+<p>well..</p>
+<p>я не особо разговорчивый человек</p>
+<p>поэтому не всегда могу найти темы для разговора, но я стараюсь</p>
+<p>брр</p>
     
 </details>
 
