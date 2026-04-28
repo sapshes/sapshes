@@ -159,7 +159,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/sapshes/sapshes/blob/3748cffe84142526064d5b658807a6bd91c95c91/IMG_20260428_152311_939.jpg" width="100">
+  <img src="https://github.com/sapshes/sapshes/blob/3748cffe84142526064d5b658807a6bd91c95c91/IMG_20260428_152311_939.jpg" width="170">
 </p>
 
 <div align="center">
