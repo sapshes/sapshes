@@ -120,7 +120,7 @@
  <summary>𝘎𝘢𝘮𝘦𝘴</summary>
 
 <div align="center">
-    <p>Garry's mod, Quarantine Zone: The Last Check, minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ark survival evolved, UMIGARI, resident evil, bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, creepy shift, roblox, bird watching, legacy of kain, DDLC, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac, skullgirls.</p>
+    <p>Garry's mod, Quarantine Zone: The Last Check, Minecraft, cry of fear, HELLMART, afraid of monsters, standoff 2, CS2, century age of ashes, she was 98, knock on the window, ARK survival evolved, Five Nights at Freddy's UMIGARI, Resident evil, Bully, backrooms, poppy playtime, captured, No I'm not a Human, Leaf is Alone, homishiper, i'm on Observation Duty 8, Your Boyfriend, creepy shift, roblox, bird watching, legacy of kain, Doki Doki literature club,, Pubg mobile, Reigns: The Witcher, The Last Of Us, Dead Finger Dice, Reanimal, Pyromaniac, skullgirls.</p>
   </div>
 </details>
 
@@ -168,8 +168,3 @@
 
 </div>
 
-<div align="center">
-  
-## *я ещё работаю над этим проектом)*
-
-<br>
