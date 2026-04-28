@@ -108,8 +108,11 @@
 <p>я не особо разговорчивый человек</p>
 <p>поэтому не всегда могу найти темы для разговора, но я стараюсь</p>
 <p>брр</p>
-<p></p>
-<p></p>
+<p>Name:</p>
+   <img src="https://github.com/sapshes/sapshes/blob/1fb9d1fb7951a9b47da87dd1bf30a9ecb135c280/e97082553918298a25af33ba66e70f12.gif" width="100"
+     
+<p>Age:</p>
+<p>Nickname:</p>
     </div>
 </details>
 
