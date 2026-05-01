@@ -138,7 +138,7 @@
  <summary>𝘈𝘯𝘪𝘮𝘦</summary>
 
 <div algn="center">
-    <p>berserk(берсерк), road of youth(дорога юности), This porcelain doll fell in love(эта фарфоровая кукла влюбилась), the wolf girl and black prince(волчица и черный принц), angel of bloodshed(ангел кровопролития), magician healer(маг целитель), bound by heaven(связанные небом)</p>
+    <p>berserk(берсерк), road of youth(дорога юности), This porcelain doll fell in love(эта фарфоровая кукла влюбилась), the wolf girl and black prince(волчица и черный принц), angel of bloodshed(ангел кровопролития), magician healer(маг целитель), bound by heaven(связанные небом), spyxfamily(семья шпионов), the fragrant flower blooms with dignity(благоухающий цветок разцветает с достоинством)</p>
     </div>
   
 </details>
